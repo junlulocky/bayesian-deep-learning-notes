@@ -5,5 +5,5 @@ The replace discrete Bernoulli distribution in a traditional dropout with its co
 
 
 
-## Reference
+## External Reference
 [1]. Gal, Yarin. Uncertainty in deep learning. Diss. PhD thesis, University of Cambridge, 2016.
