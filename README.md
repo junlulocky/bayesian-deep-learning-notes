@@ -5,4 +5,4 @@
 - Concrete Dropout - [[arxiv](https://arxiv.org/abs/1705.07832)] [[Note](/notes/concrete-dropout.md)]
 
 ## Latent variable models
-- Deep Exponential Families - [[arxiv](https://arxiv.org/pdf/1411.2581.pdf)]
+- Deep Exponential Families - [[arxiv](https://arxiv.org/pdf/1411.2581.pdf)] [[Note](/notes/deep-expo-families.md)]
