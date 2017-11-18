@@ -1,4 +1,5 @@
 # awesome-bayesian-deep-learning
+One-phrase-summary for Bayesian deep learning papers.
 
 ## Uncertainty in deep learning
 - Uncertainty in Deep Learning - [[PDF](https://pdfs.semanticscholar.org/a6af/62389c6655770c624e2fa3f3ad6dc26bf77e.pdf)] [[Blog](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)] [[Note](/notes/uncertainty-deep-learning.md)]
@@ -6,3 +7,12 @@
 
 ## Latent variable models
 - Deep Exponential Families - [[arxiv](https://arxiv.org/pdf/1411.2581.pdf)] [[Note](/notes/deep-expo-families.md)]
+
+## Probabilistic Neural Networks
+- Natural-Parameter Networks: A Class of Probabilistic Neural Networks - [[arxiv](https://arxiv.org/abs/1611.00448)] [[Note](/notes/npn.md)]
+
+## Contribution
+Any contribution is welcome. But notice that we need '*one phrase summary*' to give an overview guidance to the readers RATHER THAN a list of papers. And please add yourself into the contributor list!
+
+## Contributors
+- [Jun Lu](https://github.com/junlulocky)

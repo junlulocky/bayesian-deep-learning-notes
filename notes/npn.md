@@ -1,0 +1,3 @@
+## [Natural-Parameter Networks: A Class of Probabilistic Neural Networks](https://arxiv.org/abs/1611.00448)
+
+The authors find a novel algorithm to train the parameters in the neural nets (NNs). In traditional NNs, the forward propagation is deterministic, i.e. **o = a * W + b**. However, in this paper, they update the vector **o** in a *non-deterministic* way, i.e. updating via the mean and variance of an exponential-family.
