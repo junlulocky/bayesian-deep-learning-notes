@@ -7,6 +7,7 @@ Model uncertainty in deep learning via Bayesian modelling by variatial inference
 - Uncertainty in Deep Learning - [[PDF](https://pdfs.semanticscholar.org/a6af/62389c6655770c624e2fa3f3ad6dc26bf77e.pdf)] [[Blog](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)] [[Note](/notes/uncertainty-deep-learning.md)]
 - Concrete Dropout - [[arxiv](https://arxiv.org/abs/1705.07832)] [[Note](/notes/concrete-dropout.md)]
 - Dropout Inference in Bayesian Neural Networks with Alpha-divergences - [[arxiv](https://arxiv.org/abs/1703.02914)] [[Note](/notes/alpha-divergence.md)]
+- What Uncertainties DoWe Need in Bayesian Deep Learning for Computer Vision? - [[arxiv](https://arxiv.org/abs/1703.04977)] [[Note](/notes/)]
 
 ## (2). Probabilistic deep models
 Use probabilistic model to imitate deep neural networks.
