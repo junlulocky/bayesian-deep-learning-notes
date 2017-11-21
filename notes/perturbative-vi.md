@@ -1,0 +1,3 @@
+## [Perturbative Black Box Variational Inference](https://arxiv.org/abs/1709.07433)] 
+
+The drawback of KL divergence is that: suppose the *q(w|.)* is the variational distribution and *p(w|.)* is the posterior distribution we want to use. The KL divergence will penalise *q(w)* for placing mass where *p(w|.)* has no or small mass and penalise less for not placing mass where *p(w|.)* has large mass. The authors constructed a new variational bound which is tighter than the KL bound and **more mass covering**. Compared to alpha-divergences, its reparameterization gradients have a lower variance.

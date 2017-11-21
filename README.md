@@ -11,6 +11,7 @@
 - [2016] Uncertainty in Deep Learning - [[PDF](https://pdfs.semanticscholar.org/a6af/62389c6655770c624e2fa3f3ad6dc26bf77e.pdf)] [[Blog](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)] [[Note](/notes/uncertainty-deep-learning.md)]
 - [2015] Weight Uncertainty in Neural Networks - [[arxiv](https://arxiv.org/abs/1505.05424)] [[Note](/notes/bbb.md)]
 - [2015] On Modern Deep Learning and Variational Inference - [[NIPS](http://www.approximateinference.org/accepted/GalGhahramani2015.pdf)] [[Note](/notes/modern-vi.md)]
+- [1995] Bayesian learning for neural networks - [[PDF](http://www.csri.utoronto.ca/~radford/ftp/thesis.pdf)]
 
 ## (2). Probabilistic deep models
 > Use probabilistic model to imitate deep neural networks.
@@ -25,6 +26,7 @@
 ## (4). Approximate inference
 > Approximate inference or variational inference mostly is the building block for Bayesian deep learning. 
 
+- [2017] Perturbative Black Box Variational Inference - [[arxiv](https://arxiv.org/abs/1709.07433)] [[Note](/notes/perturbative-vi.md)]
 - [2016] Variational Inference: A Review for Statisticians - [[arxiv](https://arxiv.org/abs/1601.00670)]
 
 
