@@ -1,3 +1,3 @@
 ## [Weight Uncertainty in Neural Networks](https://arxiv.org/abs/1505.05424)
 
-The authors work in a Bayesian neural network framework, and propose a reparameterisation trick for the update of parameters in variational inference (i.e. 'variational approximation to the Bayesian posterior distribution on the weights' in the paper). Also the author provide a way to do the update by mini-batch (stochastic gradient descent like).
+The authors work in a Bayesian neural network framework, and propose a reparameterisation trick for the update of parameters in variational inference (i.e. 'variational approximation to the Bayesian posterior distribution on the weights' in the paper). Also the authors provide a way to do the update by mini-batch (stochastic gradient descent like).

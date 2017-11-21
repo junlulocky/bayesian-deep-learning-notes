@@ -1,5 +1,6 @@
 # awesome-bayesian-deep-learning
 > One-phrase-summary for Bayesian deep learning papers.
+> We here organize these papers in the following categories. But some of them might have overlap.
 
 ## (1). Uncertainty in deep learning
 > Model uncertainty in deep learning via Bayesian modelling by variatial inference etc.
@@ -9,6 +10,7 @@
 - [2017] What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision? - [[arxiv](https://arxiv.org/abs/1703.04977)] [[Note](/notes/)]
 - [2016] Uncertainty in Deep Learning - [[PDF](https://pdfs.semanticscholar.org/a6af/62389c6655770c624e2fa3f3ad6dc26bf77e.pdf)] [[Blog](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)] [[Note](/notes/uncertainty-deep-learning.md)]
 - [2015] Weight Uncertainty in Neural Networks - [[arxiv](https://arxiv.org/abs/1505.05424)] [[Note](/notes/bbb.md)]
+- [2015] On Modern Deep Learning and Variational Inference - [[NIPS](http://www.approximateinference.org/accepted/GalGhahramani2015.pdf)] [[Note](/notes/modern-vi.md)]
 
 ## (2). Probabilistic deep models
 > Use probabilistic model to imitate deep neural networks.
@@ -19,6 +21,12 @@
 > Use probabilistic methods to do the inference in neural networks.
 
 - [2016] Natural-Parameter Networks: A Class of Probabilistic Neural Networks - [[arxiv](https://arxiv.org/abs/1611.00448)] [[Note](/notes/npn.md)]
+
+## (4). Approximate inference
+> Approximate inference or variational inference mostly is the building block for Bayesian deep learning. 
+
+- [2016] Variational Inference: A Review for Statisticians - [[arxiv](https://arxiv.org/abs/1601.00670)]
+
 
 ## Contribution
 Any contribution is welcome. But notice that we need '*one phrase summary*' to give an overview guidance to the readers RATHER THAN a list of papers. And please add yourself into the contributor list!
