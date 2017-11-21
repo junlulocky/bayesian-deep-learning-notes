@@ -1,0 +1,3 @@
+## [Black Box Variational Inference](https://arxiv.org/abs/1401.0118)
+
+The authors showed that reducing the variance of the gradient estimator is essential to the fast convergence of 'variational inference algorithm'. In practice, the high variance gradients would require very small steps in the stochastic optimization thus leading to slow convergence. The authors showed how to reduce the variance in two ways: **Rao-Blackwellization** and **control variates**.
