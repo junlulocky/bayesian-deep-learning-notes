@@ -27,7 +27,9 @@
 > Approximate inference or variational inference mostly is the building block for Bayesian deep learning. 
 
 - [2017] Perturbative Black Box Variational Inference - [[arxiv](https://arxiv.org/abs/1709.07433)] [[Note](/notes/perturbative-vi.md)]
+- [2016] Variational Inference via χ-Upper Bound Minimization - [[arxiv](https://arxiv.org/abs/1611.00328)]
 - [2016] Variational Inference: A Review for Statisticians - [[arxiv](https://arxiv.org/abs/1601.00670)]
+- [1999] An Introduction to Variational Methods for Graphical Models - [[PDF](https://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf)]
 
 
 ## Contribution
