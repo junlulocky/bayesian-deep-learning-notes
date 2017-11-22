@@ -1,4 +1,4 @@
-# awesome-bayesian-deep-learning
+# bayesian-deep-learning-notes
 > One-phrase-summary for Bayesian deep learning papers.
 > We here organize these papers in the following categories. But some of them might have overlap.
 
@@ -32,15 +32,16 @@
 - [1611]. Variational Inference via χ-Upper Bound Minimization - [[arxiv](https://arxiv.org/abs/1611.00328)]
 - [1601]. Variational Inference: A Review for Statisticians - [[arxiv](https://arxiv.org/abs/1601.00670)]
 - [1401]. Black Box Variational Inference - [[arxiv](https://arxiv.org/abs/1401.0118)] [[Note](/notes/blackbox-vi.md)]
+- [2011]. Practical Variational Inference for Neural Networks - [[NIPS](https://papers.nips.cc/paper/4329-practical-variational-inference-for-neural-networks)]
 - [1999]. An Introduction to Variational Methods for Graphical Models - [[PDF](https://people.eecs.berkeley.edu/~jordan/papers/variational-intro.pdf)]
 
 ### (4.2) Reparametrization trick in variational inference
 - [1506]. Variational Dropout and the Local Reparameterization Trick - [[arxiv](https://arxiv.org/abs/1506.02557)]
 - [1401]. Stochastic Backpropagation and Approximate Inference in Deep Generative Models - [[arxiv](https://arxiv.org/abs/1401.4082)]
-- [1312]. Auto-Encoding Variational Bayes - [[arxiv](https://arxiv.org/abs/1312.6114)]
+- [1312]. Auto-Encoding Variational Bayes - [[arxiv](https://arxiv.org/abs/1312.6114)] [[Note](/notes/aevb.md)]
 
 ## (5) Bayesian neural network pruning
-> Sparsep prior can be used to induce sparse weight or neuron in neural networks thus favor smaller network structure for mobile devices etc. 
+> Sparse prior can be used to induce sparse weight or neuron in neural networks thus favor smaller network structure for mobile devices etc. 
 
 - [1711]. Interpreting Convolutional Neural Networks Through Compression - [[arXiv](https://arxiv.org/abs/1711.02329)] [[Note](/notes/interpret-cnn-compress.md)]
 - [1705]. Structural compression of convolutional neural networks based on greedy filter pruning - [[arXiv](https://arxiv.org/abs/1705.07356)] [[Note](/notes/interpret-cnn-compress.md)]
