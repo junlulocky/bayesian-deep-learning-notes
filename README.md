@@ -29,6 +29,7 @@
 
 ### (4.1) General
 - [1709]. Perturbative Black Box Variational Inference - [[arxiv](https://arxiv.org/abs/1709.07433)] [[Note](/notes/perturbative-vi.md)]
+- [1703]. Conjugate-Computation Variational Inference : Converting Variational Inference in Non-Conjugate Models to Inferences in Conjugate Models - [[arxiv](https://arxiv.org/abs/1703.04265)] [[Note]()]
 - [1611]. Variational Inference via χ-Upper Bound Minimization - [[arxiv](https://arxiv.org/abs/1611.00328)]
 - [1601]. Variational Inference: A Review for Statisticians - [[arxiv](https://arxiv.org/abs/1601.00670)]
 - [1401]. Black Box Variational Inference - [[arxiv](https://arxiv.org/abs/1401.0118)] [[Note](/notes/blackbox-vi.md)]
