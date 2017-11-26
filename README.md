@@ -16,6 +16,7 @@
 ## (2). Probabilistic deep models
 > Use probabilistic model to imitate deep neural networks.
 
+- [1711]. Deep Gaussian Mixture Models - [[arxiv](https://arxiv.org/abs/1711.06929)]
 - [1411]. Deep Exponential Families - [[arxiv](https://arxiv.org/pdf/1411.2581.pdf)] [[Note](/notes/deep-expo-families.md)]
 
 ## (3). Probabilistic neural networks
