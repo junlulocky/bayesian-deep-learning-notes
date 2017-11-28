@@ -47,6 +47,7 @@
 
 - [1711]. Interpreting Convolutional Neural Networks Through Compression - [[arXiv](https://arxiv.org/abs/1711.02329)] [[Note](/notes/interpret-cnn-compress.md)]
 - [1705]. Structural compression of convolutional neural networks based on greedy filter pruning - [[arXiv](https://arxiv.org/abs/1705.07356)] [[Note](/notes/interpret-cnn-compress.md)]
+- [1705]. Structured Bayesian Pruning via Log-Normal Multiplicative Noise - [[arxiv](https://arxiv.org/abs/1705.07283)]
 - [1705]. Bayesian Compression for Deep Learning - [[arxiv](https://arxiv.org/abs/1705.08665)] [[Note](/notes/bayesian-compress.md)]
 - [1701]. Variational Dropout Sparsifies Deep Neural Networks - [[arxiv](https://arxiv.org/abs/1701.05369)]
 
