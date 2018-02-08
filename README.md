@@ -44,7 +44,13 @@
 - [1401]. Stochastic Backpropagation and Approximate Inference in Deep Generative Models - [[arxiv](https://arxiv.org/abs/1401.4082)]
 - [1312]. Auto-Encoding Variational Bayes - [[arxiv](https://arxiv.org/abs/1312.6114)] [[Note](/notes/aevb.md)]
 
-## (5) Bayesian neural network pruning
+## (5) Continuous relaxation
+> Use continuous distribution to approximate discrete random variables, e.g. concrete distribution is a continuous distribution used to approximate discrete random variables.
+
+- [1611]. The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables - [[arxiv](https://arxiv.org/abs/1611.00712)]
+- [1611]. Categorical Reparameterization with Gumbel-Softmax - [[arxiv](https://arxiv.org/abs/1611.01144)]
+
+## (6) Bayesian neural network pruning
 > Sparse prior can be used to induce sparse weight or neuron in neural networks thus favor smaller network structure for mobile devices etc. 
 
 - [1711]. Interpreting Convolutional Neural Networks Through Compression - [[arXiv](https://arxiv.org/abs/1711.02329)] [[Note](/notes/interpret-cnn-compress.md)]
@@ -52,6 +58,8 @@
 - [1705]. Structured Bayesian Pruning via Log-Normal Multiplicative Noise - [[arxiv](https://arxiv.org/abs/1705.07283)]
 - [1705]. Bayesian Compression for Deep Learning - [[arxiv](https://arxiv.org/abs/1705.08665)] [[Note](/notes/bayesian-compress.md)]
 - [1701]. Variational Dropout Sparsifies Deep Neural Networks - [[arxiv](https://arxiv.org/abs/1701.05369)]
+
+
 
 
 ## Contribution
