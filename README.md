@@ -60,8 +60,6 @@
 - [1701]. Variational Dropout Sparsifies Deep Neural Networks - [[arxiv](https://arxiv.org/abs/1701.05369)]
 
 
-
-
 ## Contribution
 Any contribution is welcome. But notice that we need '*one phrase summary*' to give an overview guidance to the readers RATHER THAN a list of papers. And please add yourself into the contributor list!
 
