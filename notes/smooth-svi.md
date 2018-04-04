@@ -1,0 +1,3 @@
+## [Smoothed Gradients for Stochastic Variational Inference](http://papers.nips.cc/paper/5557-smoothed-gradients-for-stochastic-variational-inference.pdf)
+
+stochastic variation inference uses a weighted sum to update the parameter which is unbiased. In smoothed gradients for stochastic variation inference, they uses a window averaged to update the parameter which is biased estimator but reduces the variance so as to fasten the convergence.
