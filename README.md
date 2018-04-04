@@ -45,6 +45,9 @@
 - [1401]. Stochastic Backpropagation and Approximate Inference in Deep Generative Models - [[arxiv](https://arxiv.org/abs/1401.4082)]
 - [1312]. Auto-Encoding Variational Bayes - [[arxiv](https://arxiv.org/abs/1312.6114)] [[Note](/notes/aevb.md)]
 
+### (4.3) Others
+- [NA]. [A roadmap to research on EP](https://tminka.github.io/papers/ep/roadmap.html)
+
 ## (5) Continuous relaxation
 > Use continuous distribution to approximate discrete random variables, e.g. concrete distribution is a continuous distribution used to approximate discrete random variables.
 
