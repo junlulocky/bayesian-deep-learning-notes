@@ -47,6 +47,7 @@
 
 ### (4.3) Others
 - [NA]. [A roadmap to research on EP](https://tminka.github.io/papers/ep/roadmap.html)
+- [1608]. Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm - [[arxiv](https://arxiv.org/abs/1608.04471)] [[Note](/notes/stein-var.md)]
 
 ## (5) Continuous relaxation
 > Use continuous distribution to approximate discrete random variables, e.g. concrete distribution is a continuous distribution used to approximate discrete random variables.
