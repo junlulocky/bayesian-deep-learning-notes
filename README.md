@@ -29,7 +29,7 @@
 > Variational inference: the main idea behind variational inference is to pick a family of distributions over the latent variables with its own parameters which is called *variational parameters*.
 
 ### (4.1) General
-- [1712]. Vprop: Variational Inference using RMSprop - [[arxiv](https://arxiv.org/abs/1712.01038)] 
+- [1712]. Vprop: Variational Inference using RMSprop - [[arxiv](https://arxiv.org/abs/1712.01038)] [[Note](/notes/vprop.md)]
 - [1709]. Perturbative Black Box Variational Inference - [[arxiv](https://arxiv.org/abs/1709.07433)] [[Note](/notes/perturbative-vi.md)]
 - [1703]. Conjugate-Computation Variational Inference : Converting Variational Inference in Non-Conjugate Models to Inferences in Conjugate Models - [[arxiv](https://arxiv.org/abs/1703.04265)] [[Note](/notes/cvi.md)]
 - [1611]. Variational Inference via χ-Upper Bound Minimization - [[arxiv](https://arxiv.org/abs/1611.00328)]
