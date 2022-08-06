@@ -3,7 +3,7 @@
 > We here organize these papers in the following categories. But some of them might have overlap.
 
 ## (1). Uncertainty in deep learning
-> Model uncertainty in deep learning via Bayesian modelling by variatial inference etc.
+> Model uncertainty in deep learning via Bayesian modelling by variational inference etc.
 
 - [1705]. Concrete Dropout - [[arxiv](https://arxiv.org/abs/1705.07832)] [[Note](/notes/concrete-dropout.md)]
 - [1703]. Dropout Inference in Bayesian Neural Networks with Alpha-divergences - [[arxiv](https://arxiv.org/abs/1703.02914)] [[Note](/notes/alpha-divergence.md)]
@@ -11,7 +11,7 @@
 - [2016]. Uncertainty in Deep Learning - [[PDF](https://pdfs.semanticscholar.org/a6af/62389c6655770c624e2fa3f3ad6dc26bf77e.pdf)] [[Blog](http://mlg.eng.cam.ac.uk/yarin/blog_2248.html)] [[Note](/notes/uncertainty-deep-learning.md)]
 - [1505]. Weight Uncertainty in Neural Networks - [[arxiv](https://arxiv.org/abs/1505.05424)] [[Note](/notes/bbb.md)]
 - [2015]. On Modern Deep Learning and Variational Inference - [[NIPS](http://www.approximateinference.org/accepted/GalGhahramani2015.pdf)] [[Note](/notes/modern-vi.md)]
-- [1995]. Bayesian learning for neural networks
+- [1995]. Bayesian learning for neural networks - [[PDF](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.9306&rep=rep1&type=pdf)]
 
 ## (2). Probabilistic deep models
 > Use probabilistic model to imitate deep neural networks.
@@ -56,7 +56,7 @@
 - [1611]. Categorical Reparameterization with Gumbel-Softmax - [[arxiv](https://arxiv.org/abs/1611.01144)]
 
 ## (6) Bayesian neural network pruning
-> Sparse prior can be used to induce sparse weight or neuron in neural networks thus favor smaller network structure for mobile devices etc. 
+> Sparse prior can be used to induce sparse weight or neuron in neural networks, thus favor smaller network structure for mobile devices etc. 
 
 - [1711]. Interpreting Convolutional Neural Networks Through Compression - [[arXiv](https://arxiv.org/abs/1711.02329)] [[Note](/notes/interpret-cnn-compress.md)]
 - [1705]. Structural compression of convolutional neural networks based on greedy filter pruning - [[arXiv](https://arxiv.org/abs/1705.07356)] [[Note](/notes/interpret-cnn-compress.md)]
@@ -70,3 +70,4 @@ Any contribution is welcome. But notice that we need '*one phrase summary*' to g
 
 ## Contributors
 - [Jun Lu](https://github.com/junlulocky)
+- [Christine Chai](https://github.com/star1327p)
